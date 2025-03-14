@@ -27,8 +27,8 @@ I'm a Quality Engineer and Web Dev with a passion for breaking things (in a good
 📧 zimrri.gudino@gmail.com  
 📍 SF Bay Area | Open to Remote & San Diego opportunities
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imzimrri/imzimrri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imzimrri/imzimrri/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/imzimrri/imzimrri/output/github-snake.svg" />
 </picture>
 
