@@ -1,6 +1,11 @@
 # Hey there! I'm Zimrri 👋
+I'm an AI Engineer and Product Manager who builds intelligent systems that solve real problems. After 6 years at Workday leading QA and Scrum teams, I've pivoted to AI product development—architecting multi-agent systems, optimizing LLM pipelines, and shipping AI-powered apps from prototype to production.
 
-I'm a Quality Engineer and Web Dev with a passion for breaking things (in a good way 🐛🔨) and building them back even better! After nearly 6 years at **Workday**, I’ve mastered the art of QA for mobile and web, tackled APIs, and played the role of Scrum Master to keep things running smoothly.
+I bridge the gap between technical execution and product strategy. Whether it's reducing podcast generation costs by 94%, winning hackathons with enterprise 2FA systems, or building RAG-powered career guidance platforms, I turn AI concepts into deployable solutions.
+
+Currently founding TickerPod.AI, where I'm building personalized investment podcasts powered by Google's AI stack. I love experimenting with agents, RAG architectures, and rapid prototyping—then iterating until they're production-ready.
+When I'm not coding or shipping features, you'll find me at AICamp SF events connecting with the AI community, or testing the latest agent frameworks to see what's possible.
+
 
 ## 🌐 Socials:
 
